@@ -1,0 +1,114 @@
+html, body {
+    height: 100%;
+    background-color: #c4cdd6;
+}
+
+.navbar-001 {
+    height: 100%;
+}
+
+.navbar-001 #button {
+    width: 249px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #ff891e;
+}
+
+.navbar-001 #container2 {
+    display: none;
+}
+ 
+.navbar-001 .carousel-caption {
+    position: absolute;
+    top: 35%;
+    left: 45%;
+    font-family: "Open Sans";
+}
+
+.navbar-001 .all-stocks {
+    width: 153px;
+    height: 45px;
+    border-radius: 3px;
+    border: 1px solid #212121;
+
+}
+
+.navbar-001 .detail {
+    background-color: #ff891e;
+    width: 155px;
+    height: 45px;
+    border-radius: 3px;
+    color: #ffffff;
+    margin-right: 22px;
+    border-color: #ff891e;
+}
+
+.navbar .carousel-item img {
+    width: 1920px;
+    height: 675px;
+}
+
+.navbar-001 .text-block {
+    width: 567px;
+    height: 140px;
+    color: #000000;
+    text-align: left;
+    font-weight: 400;
+}
+    
+.navbar-001 .text-block h1 {
+    font-size: 42px;
+    line-height: 50px;
+    color: #000000;
+}
+    
+.navbar-001 .text-block h2 {
+    font-size: 26px;
+    line-height: 40.05px;
+    color: #000000; 
+}
+
+.navbar-001 .carousel-indicators li {
+    width: auto;
+    height: auto;
+    text-indent: unset;
+    margin: 8px;
+}
+
+
+.navbar-001 .media {
+    width: 274px;
+    height: 67px;
+    border-radius: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.44);
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 6px;
+}
+
+.navbar-001 .media-body {
+    text-shadow: 0 1px 1px rgba(2, 2, 2, 0.2);
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+
+.navbar-001 .media p {
+    font-size: 12px;
+    margin: 0px;
+}
+
+.navbar-001 .media p:first-of-type {
+    font-size: 11px;    
+}
+
+.navbar-001 .button-control {
+    width: 77px;
+    height: 85px;
+    border-radius: 3px;
+    background-color: #000000;
+    opacity: 0.1;
+}
+
+.navbar-001 .button-control a {
+    padding-top: 32px;
+} 
