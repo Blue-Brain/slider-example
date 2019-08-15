@@ -4,7 +4,3 @@ $('.myButton').click(function(){
         $('#slides').fadeIn('fast')
     })
 })
-
-$('.carousel').carousel({
-    interval: false
-});
