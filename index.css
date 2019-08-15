@@ -1,5 +1,10 @@
 html, body {
+    height: 100%;
     background-color: #c4cdd6;
+}
+
+.navbar-001 #slides {
+    display: none;
 }
 
 .navbar-001 {
@@ -66,10 +71,6 @@ html, body {
     color: #ffffff;
     margin-right: 22px;
     border-color: #ff891e;
-}
-
-.navbar .carousel-item img {
-
 }
 
 .navbar-001 .text-block {
