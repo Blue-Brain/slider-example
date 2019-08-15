@@ -150,7 +150,7 @@ html, body {
     width: 26.74%;
     height: 12.595%;
     border-radius: 3px;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.1); 
 }
 
 .navbar-001 .carousel-control-next, .carousel-control-prev {
@@ -161,6 +161,10 @@ html, body {
     color: white;   
     font-size: calc( (100vw - 1170px)/(1920 - 1170) * (30 - 19) + 19px);
     line-height: 37px;
+}
+
+.navbar-001 a {
+    text-decoration: none !important;
 }
 
 @media (max-width: 1170px) {
